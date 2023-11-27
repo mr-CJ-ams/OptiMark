@@ -19,6 +19,7 @@ Here is an overview of the logic and interactions between the
 users and the software based on the provided code:
 
 1. StartScreen:
+   
    • When the application starts, it displays the StartScreen.
    
    • The StartScreen provides three options:
@@ -40,6 +41,7 @@ users and the software based on the provided code:
 ![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/974843fb-c8a8-4492-bc2e-3a5d183b8181)
 
 3. CheckBoxesScreen:
+   
 • This screen allows users to select the number of questions for the test (25, 50, or 100).
 
 • Upon selecting the number of questions, the screen dynamically creates rows of checkboxes based on the selected count. Each row represents a question, and each row has three options (choices A, B, and C) represented by radio buttons.
