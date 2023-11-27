@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>github.png</file>
+    <file>icons8-download-from-the-cloud-48 (1).png</file>
+  </qresource>
+</RCC>
