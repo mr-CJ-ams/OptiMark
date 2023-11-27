@@ -15,10 +15,56 @@ graphical user interface (GUI) application. The application
 appears to be an Optical Mark Recognition (OMR) system for 
 capturing and analyzing user-inputted answers from a form.
 
-Here is an overview of the logic and interactions between the 
-users and the software based on the provided code:
 
-1. StartScreen:
+# Summary of OptiMark Software Functions and Features:
+
+OptiMark offers the following functions:
+
+1. Optical Mark Recognition (OMR):
+
+• Efficiently scans and captures data from answer sheets containing marked bubbles.
+
+• Detects and interprets bubble markings accurately and swiftly
+
+2. Scanning and Data Capture:
+
+• Seamlessly integrates with scanning devices to digitize answer 
+sheets.
+
+• Ensures high-quality image capture and precise extraction of 
+bubble data.
+
+3. Answer Key Configuration:
+
+• Allows users to define answer keys or scoring rubrics for 
+automated result calculation.
+
+• Supports flexible marking schemes, including single or multiple 
+correct answers per question.
+
+4. Result Calculation:
+
+• Automates the calculation of individual and aggregate scores 
+based on the provided answer keys.
+
+• Generates accurate and reliable results, saving time and effort 
+for educators.
+
+5. Error Detection and Verification:
+
+• Can detect multiple answers and rejects it
+
+• Includes built-in mechanisms to detect potential scanning or 
+marking errors.
+
+• Provides verification tools for reviewing and validating 
+captured data, ensuring data accuracy.
+
+
+
+# Here is an overview of the logic and interactions between the users and the software based on the provided code:
+
+# 1. StartScreen:
    
    • When the application starts, it displays the StartScreen.
    
@@ -32,7 +78,7 @@ users and the software based on the provided code:
 
 ![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/7826d467-e1dd-4012-ad7a-76e1df0d4c96)
 
-2. DownloadTemplateScreen:
+# 2. DownloadTemplateScreen:
    
 • This screen shows the downloadable question templates for different question counts (25, 50, or 100 items).
 
@@ -40,7 +86,7 @@ users and the software based on the provided code:
 
 ![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/974843fb-c8a8-4492-bc2e-3a5d183b8181)
 
-3. CheckBoxesScreen:
+# 3. CheckBoxesScreen:
    
 • This screen allows users to select the number of questions for the test (25, 50, or 100).
 
@@ -64,7 +110,8 @@ users and the software based on the provided code:
 
 
 
-4. CaptureScreen:
+# 4. CaptureScreen:
+   
 • This screen displays a webcam feed showing the user taking the test using a webcam.
 
 • When the "Freeze" button is pressed, the frame from the webcam is frozen, and the system processes the captured frame to extract answers using image processing techniques.
