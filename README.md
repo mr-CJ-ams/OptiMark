@@ -41,6 +41,9 @@ users and the software based on the provided code:
 
 3. CheckBoxesScreen:
 • This screen allows users to select the number of questions for the test (25, 50, or 100).
+
 • Upon selecting the number of questions, the screen dynamically creates rows of checkboxes based on the selected count. Each row represents a question, and each row has three options (choices A, B, and C) represented by radio buttons.
+
 • Users must answer all questions by selecting one option (radio button) per row.
+
 • The "Next" button is used to proceed to the CaptureScreen after answering the questions
