@@ -20,18 +20,22 @@ users and the software based on the provided code:
 
 1. StartScreen:
    • When the application starts, it displays the StartScreen.
+   
    • The StartScreen provides three options:
+   
       i. About: Opens a dialog box with information about the application.
+   
       ii. Download Template: Opens the DownloadTemplateScreen, where users can download question templates for different question counts (25, 50, or 100 items).
+   
       iii. Start Test: Opens the CheckBoxesScreen, where users can select the number of questions (25, 50, or 100) and proceed with the test.
 
 ![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/7826d467-e1dd-4012-ad7a-76e1df0d4c96)
 
 2. DownloadTemplateScreen:
-• This screen shows the downloadable question templates for 
-different question counts (25, 50, or 100 items).
-• Users can click on the "Download" button next to each 
-template to download the corresponding PDF file
+   
+• This screen shows the downloadable question templates for different question counts (25, 50, or 100 items).
+
+• Users can click on the "Download" button next to each template to download the corresponding PDF file
 
 ![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/974843fb-c8a8-4492-bc2e-3a5d183b8181)
 
