@@ -74,7 +74,7 @@ captured data, ensuring data accuracy.
    
       ii. Download Template: Opens the DownloadTemplateScreen, where users can download question templates for different question counts (25, 50, 75, or 100 items).
    
-      iii. Start Test: Opens the CheckBoxesScreen, where users can select the number of questions (25, 50, 75, or 100) and proceed with the test.
+      iii. Start Test: Opens the CheckBoxesScreen, where users can select the number of questions (between 1 to 100) and proceed with the test.
 
 ![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/7826d467-e1dd-4012-ad7a-76e1df0d4c96)
 
@@ -89,12 +89,12 @@ captured data, ensuring data accuracy.
 
 # 3. CheckBoxesScreen:
    
-• This screen allows users to select the number of questions for the test (25, 50, 75, or 100).
+• This screen allows users to select the number of questions for the test (between 1 to 100).
 
 ![Screenshot 2024-06-07 004517](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/b8149fae-c77b-4dff-9eff-57cd935ce1d0)
 
 
-• Upon selecting the number of questions, the screen dynamically creates rows of checkboxes based on the selected count. Each row represents a question, and each row has three options (choices A, B, and C) represented by radio buttons.
+• Upon selecting the number of questions, the screen dynamically creates rows of checkboxes based on the selected count. Each row represents a question, and each row has three options (choices A, B, C, D and E) represented by radio buttons.
 
 • Users must fill all items by selecting one option (radio button) per row.
 
@@ -124,7 +124,7 @@ captured data, ensuring data accuracy.
 
 • It then processes each section to split the image into individual parts, each representing a question.
 
-• The system calculates the selected answers for each part/question based on the user's choice (A, B, or C).
+• The system calculates the selected answers for each part/question based on the user's choice (A, B, C, D, or E).
 
 • The user can press the "Unfreeze" button to unfreeze the webcam and continue taking the test.
 
