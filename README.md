@@ -72,34 +72,39 @@ captured data, ensuring data accuracy.
    
       i. About: Opens a dialog box with information about the application.
    
-      ii. Download Template: Opens the DownloadTemplateScreen, where users can download question templates for different question counts (25, 50, or 100 items).
+      ii. Download Template: Opens the DownloadTemplateScreen, where users can download question templates for different question counts (25, 50, 75, or 100 items).
    
-      iii. Start Test: Opens the CheckBoxesScreen, where users can select the number of questions (25, 50, or 100) and proceed with the test.
+      iii. Start Test: Opens the CheckBoxesScreen, where users can select the number of questions (25, 50, 75, or 100) and proceed with the test.
 
 ![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/7826d467-e1dd-4012-ad7a-76e1df0d4c96)
 
 # 2. DownloadTemplateScreen:
    
-• This screen shows the downloadable question templates for different question counts (25, 50, or 100 items).
+• This screen shows the downloadable question templates for different question counts (25, 50, 75, or 100 items).
 
 • Users can click on the "Download" button next to each template to download the corresponding PDF file
 
-![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/974843fb-c8a8-4492-bc2e-3a5d183b8181)
+![Screenshot 2024-06-07 004603](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/263f71d0-5cd2-4687-8437-5d4bb9c18855)
+
 
 # 3. CheckBoxesScreen:
    
 • This screen allows users to select the number of questions for the test (25, 50, or 100).
 
-![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/b9fa92a1-9675-4376-8094-78c7a6b0768c)
+![Screenshot 2024-06-07 004517](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/b8149fae-c77b-4dff-9eff-57cd935ce1d0)
 
 
 • Upon selecting the number of questions, the screen dynamically creates rows of checkboxes based on the selected count. Each row represents a question, and each row has three options (choices A, B, and C) represented by radio buttons.
 
 • Users must fill all items by selecting one option (radio button) per row.
 
-![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/51fa4102-c77d-4da2-aeed-23b8638be120)
+![image](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/0ce9a43c-40a1-488a-b502-1b244392facc)
 
-![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/16e2c60e-fede-4177-be6a-0231943059e1)
+
+![image](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/468219a5-2ed5-4e97-86ea-8f402d446b65)
+
+![image](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/ef8e5825-44c7-4b5b-b869-87c277e1abec)
+
 
 • Make sure your Webcam is connected to your computer to proceed to the CaptureScreen
 
@@ -126,8 +131,8 @@ captured data, ensuring data accuracy.
 
 • The system displays the selected answers and the user's score (number of correct answers) on the screen
 
-![Screenshot 2023-07-20 015406](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/c6d9f36b-c344-4228-9140-c0bbd93e9619)
+![Screenshot 2024-06-07 004256](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/87afc29f-9817-4ee7-b3a3-6779e22e7669)
 
-![Screenshot 2023-07-20 015432](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/752b753e-5efe-44a5-9d7e-97095bf76f66)
+![Screenshot 2024-06-07 004336](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/e81de8b4-3e7e-4bca-90b1-e99b031c3f43)
 
-![Screenshot 2023-07-20 015513](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/1a0deeb6-1f67-45f6-bc2e-a9e9b20286bd)
+
