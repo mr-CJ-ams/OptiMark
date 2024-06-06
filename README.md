@@ -89,7 +89,7 @@ captured data, ensuring data accuracy.
 
 # 3. CheckBoxesScreen:
    
-• This screen allows users to select the number of questions for the test (25, 50, or 100).
+• This screen allows users to select the number of questions for the test (25, 50, 75, or 100).
 
 ![Screenshot 2024-06-07 004517](https://github.com/mr-CJ-ams/OptiMark-App/assets/110215820/b8149fae-c77b-4dff-9eff-57cd935ce1d0)
 
@@ -108,7 +108,6 @@ captured data, ensuring data accuracy.
 
 • Make sure your Webcam is connected to your computer to proceed to the CaptureScreen
 
-![image](https://github.com/mr-CJ-ams/OptiMark/assets/110215820/ce9d7063-e1d8-4dde-b874-03f832368eb3)
 
 
 • The "Next" button is used to proceed to the CaptureScreen after answering the questions
